@@ -34,8 +34,8 @@
 // ===========================
 // Enter your WiFi credentials
 // ===========================
-const char* ssid = "KT_GiGA_15E6";
-const char* password = "fb03gz2133";
+const char* ssid = "";
+const char* password = "";
 
 void startCameraServer();
 void setupLedFlash(int pin);
